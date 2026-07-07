@@ -14,7 +14,7 @@
 - 💻 Passionate about Java Backend Development
 - 🌱 Currently learning Spring Boot & System Design
 - 🧩 Solved 450+ DSA problems
-- 🏆 Technical Lead @ Luminos
+- 🏆 General Secretery @ Luminos
 - 🚀 Love building real-world applications
 
 ---
@@ -73,15 +73,6 @@ Git • GitHub • VS Code • Eclipse • Postman
 
 ---
 
-### 🔐 QuMail
-Quantum Secure Email Client
-
-- Java
-- MySQL
-- AES Encryption
-
----
-
 ### 🩸 Fingerprint Blood Group Prediction
 Machine Learning Project
 
@@ -93,6 +84,8 @@ Machine Learning Project
 
 ## 🏆 Achievements
 
+🏆 Awarded First Prize for Academic Excellence during Second Year of B.Tech
+
 🥇 First Prize - Science Expo
 
 ⭐ Technical Lead - Luminos
@@ -103,20 +96,12 @@ Machine Learning Project
 
 ---
 
-## 📜 Certifications
-
-- Java Backend Development
-- HackerEarth Software Engineer Certification
-- Oracle OCI (when completed)
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: chandanagarre@gmail.com
-- 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/chandana-g-486372291/)
+- 💼 LinkedIn: https://www.linkedin.com/in/chandana-g-486372291
 - 💻 GitHub: https://github.com/Garre-Chandana
-- 🧩 LeetCode: [https://leetcode.com/u/yourusername](https://leetcode.com/u/chandana_garre/)
+- 🧩 LeetCode: https://leetcode.com/u/chandana_garre
 
 ---
 
