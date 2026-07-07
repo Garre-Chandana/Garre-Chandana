@@ -113,10 +113,10 @@ Machine Learning Project
 
 ## 📫 Connect With Me
 
-- 📧 Email: your_email@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 📧 Email: chandanagarre@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/chandana-g-486372291/)
 - 💻 GitHub: https://github.com/Garre-Chandana
-- 🧩 LeetCode: https://leetcode.com/u/yourusername
+- 🧩 LeetCode: [https://leetcode.com/u/yourusername](https://leetcode.com/u/chandana_garre/)
 
 ---
 
