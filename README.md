@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chandana Garre</h1>
 
-<h3 align="center">Software Engineer | Java Backend Developer | Spring Boot Enthusiast | DSA</h3>
+
+
+<h3 align="center">Aspiring Software Engineer | Java | Spring Boot | React | DSA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=850&lines=Software+Engineer;Java+Backend+Developer;Spring+Boot+Enthusiast;React+Developer;Problem+Solver;Open+to+Software+Engineering+Internships" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;Java+Developer;Spring+Boot+Enthusiast;React+Developer;Problem+Solver;Open+to+Software+Engineering+Internships" />
 </p>
 
 ---
