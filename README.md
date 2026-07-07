@@ -22,7 +22,7 @@
 ## 🛠 Tech Stack
 
 ### Languages
-[Java] • Python • JavaScript • C
+Java • Python • JavaScript • C
 
 ### Frontend
 React • HTML • CSS
