@@ -1,6 +1,10 @@
 # Hi 👋, I'm Chandana Garre
 
-### 🚀 Software Engineer | Java Developer | React Developer | DSA Enthusiast
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer;Java+Backend+Developer;React+Developer;Spring+Boot+Learner;DSA+Enthusiast" />
+
+</p>
 
 🎓 B.Tech CSE (Data Science)  
 📍 Hyderabad, India  
@@ -21,20 +25,12 @@
 
 ## 🛠 Tech Stack
 
-### Languages
-Java • Python • JavaScript • C
 
-### Frontend
-React • HTML • CSS
+<p align="left">
 
-### Backend
-Spring Boot • JDBC • REST APIs
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,mongodb,git,github,vscode,postman,docker" />
 
-### Database
-MySQL • MongoDB
-
-### Tools
-Git • GitHub • VS Code • Eclipse • Postman
+</p>
 
 ---
 
