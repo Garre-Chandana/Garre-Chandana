@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=850&lines=Software+Engineer;Java+Backend+Developer;Spring+Boot+Enthusiast;React+Developer;Problem+Solver;Open+to+Software+Engineering+Internships" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Garre-Chandana&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
@@ -27,7 +23,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,mongodb,git,github,vscode,eclipse,postman,docker" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,mongodb,git,github,vscode,eclipse" />
 </p>
 
 ---
@@ -97,29 +93,8 @@ Machine Learning Project
 - 🏆 First Prize Winner – Science Expo (Smart Baby Cradle IoT Project)
 - ⭐ Technical Lead – Luminos
 - 💻 Solved **450+ DSA Problems**
-- 🎯 CGPA: **8.96 / 10**
+- 🎯 CGPA: **8.95 / 10**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Garre-Chandana&show_icons=true&theme=github_dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garre-Chandana&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Garre-Chandana&theme=github-dark"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
