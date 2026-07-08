@@ -14,7 +14,7 @@
 
 - 🎓 B.Tech in Computer Science & Engineering (Data Science)
 - 💻 Passionate about Java Backend Development
-- 🌱 Currently learning Spring Boot, Docker & System Design
+- 🌱 Currently learning Spring Boot & System Design
 - 🧩 Solved **450+ DSA Problems**
 - 🏆 General Secretary @ Luminos
 - 🚀 Love building scalable real-world applications
@@ -33,7 +33,6 @@
 ## 🌱 Currently Learning
 
 - Spring Boot
-- Docker
 - System Design
 - REST API Development
 - Backend Architecture
@@ -79,7 +78,8 @@
 
 ---
 
-### 🩸 Fingerprint Blood Group Prediction
+### 🩸 [Fingerprint Blood Group Prediction](https://github.com/Garre-Chandana/Blood-Group-Prediction)
+
 
 Machine Learning Project
 
